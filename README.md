@@ -1,3 +1,3 @@
 # Html Website 
 ## Brainnest Assignment 1
-visit my website: https://abiyeljames.github.io/Html-Website/
+visit my website: https://github.com/abiyeljames/Html-Website
